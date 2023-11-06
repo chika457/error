@@ -1,0 +1,25 @@
+.btn-group{
+  /* border: 1px solid rgb(8, 7, 7); */
+  border-radius: 5px ;
+}
+
+.btn-all{
+  background: #40b1c5;
+  color:#fff;
+  border:0;
+  /* border-right-color: black; */
+}
+
+.btn-all:hover{
+  background: #40b1c5;
+}
+
+.btn-info{
+  background: #bfd5d8;
+  color:#fff;
+  /* border:0; */
+}
+
+.btn-info:hover{
+  background: #40b1c5;
+}
